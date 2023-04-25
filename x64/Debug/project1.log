@@ -1,0 +1,1153 @@
+﻿     0>Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Próba zaimportowania elementu D:\VS\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props przy użyciu ścieżki rozszerzeń D:\VS\MSBuild
+       Ponowne przypisanie właściwości: $(MSBuildProjectExtensionsPath)=„D:\project\dynatrace-cpp-internship-2023\project\obj\” (poprzednia wartość: „obj\”) w D:\VS\MSBuild\Current\Microsoft.Common.props (56,5)
+       Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Próba zaimportowania elementu D:\VS\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* przy użyciu ścieżki rozszerzeń D:\VS\MSBuild
+       Property 'VisualStudioVersion' with value '17.0' expanded from the environment.
+       Właściwość „Configuration” jest właściwością globalną i nie może być modyfikowana.
+       Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Właściwość „Configuration” jest właściwością globalną i nie może być modyfikowana.
+       Właściwość „LangID” jest właściwością globalną i nie może być modyfikowana.
+       Właściwość „SolutionDir” jest właściwością globalną i nie może być modyfikowana.
+       Property 'LOCALAPPDATA' with value 'C:\Users\robin\AppData\Local' expanded from the environment.
+       Ponowne przypisanie właściwości: $(UseDebugLibraries)=„true” (poprzednia wartość: „false”) w D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj (41,5)
+       Property 'PROCESSOR_ARCHITECTURE' with value 'AMD64' expanded from the environment.
+       Ponowne przypisanie właściwości: $(WindowsSdkDir_10)=„C:\Program Files (x86)\Windows Kits\10\” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (18,5)
+       Ponowne przypisanie właściwości: $(NETFXSDK_Version)=„4.8” (poprzednia wartość: „4.8.1”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (46,5)
+       Ponowne przypisanie właściwości: $(NETFXKitsDir)=„C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (51,5)
+       Ponowne przypisanie właściwości: $(NETFXSDKDir)=„C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (54,5)
+       Ponowne przypisanie właściwości: $(WindowsSDK_ExecutablePath_x86)=„C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools” (poprzednia wartość: „C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (209,5)
+       Ponowne przypisanie właściwości: $(WindowsSDK_ExecutablePath_x64)=„C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64” (poprzednia wartość: „C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (210,5)
+       Ponowne przypisanie właściwości: $(TargetExt)=„.exe” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (28,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (88,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (89,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (90,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (91,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (92,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (93,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (94,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (95,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (96,5)
+       Ponowne przypisanie właściwości: $(VC_ExecutablePath_Loc)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;;;;;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostArm64\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\arm\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\1045;D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x86\1045;;;;;;;;;;;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (97,5)
+       Ponowne przypisanie właściwości: $(MSBuild_ExecutablePath)=„D:\VS\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;D:\VS\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\” (poprzednia wartość: „D:\VS\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (124,5)
+       Property 'COMPUTERNAME' with value 'DESKTOP-E9NATOD' expanded from the environment.
+       Ponowne przypisanie właściwości: $(RemoteDebuggerDeployDebugCppRuntime)=„true” (poprzednia wartość: „false”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (153,5)
+       Ponowne przypisanie właściwości: $(MultiProcMaxCount)=„0” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (214,5)
+       Ponowne przypisanie właściwości: $(EspXtensions)=„EnumIndex.dll;CppCoreCheck.dll;” (poprzednia wartość: „CppCoreCheck.dll;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (21,5)
+       Ponowne przypisanie właściwości: $(EspXtensions)=„HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;” (poprzednia wartość: „EnumIndex.dll;CppCoreCheck.dll;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (24,5)
+       Ponowne przypisanie właściwości: $(EspXtensions)=„VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;” (poprzednia wartość: „HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (27,5)
+       Ponowne przypisanie właściwości: $(ConcurrencyCheckPath)=„D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\ConcurrencyCheck.dll” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\ConcurrencyCheck.dll”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (31,5)
+       Ponowne przypisanie właściwości: $(ConcurrencyCheckPath)=„\ConcurrencyCheck.dll” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\ConcurrencyCheck.dll”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (33,5)
+       Ponowne przypisanie właściwości: $(EspXtensions)=„ConcurrencyCheck.dll;VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;” (poprzednia wartość: „VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (34,5)
+       Ponowne przypisanie właściwości: $(_PropertySheetDisplayName)=„Application” (poprzednia wartość: „Core Windows Libraries”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props (15,5)
+       Property 'Path' with value 'C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\robin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\dotnet\;D:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\robin\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\robin\AppData\Local\Programs\Python\Python310\;C:\Users\robin\AppData\Local\Microsoft\WindowsApps;D:\Users\robin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\robin\AppData\Local\GitHubDesktop\bin;C:\Users\robin\.dotnet\tools' expanded from the environment.
+       Property 'SystemRoot' with value 'C:\Windows' expanded from the environment.
+       Właściwość „SolutionExt” jest właściwością globalną i nie może być modyfikowana.
+       Ponowne przypisanie właściwości: $(ExtensionsToDeleteOnClean)=„*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.exe.manifest;D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.tlb;D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.pdb;D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.exe;D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.bsc;D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.ilk;D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.exe.intermediate.manifest;x64\Debug\project1.vcxproj.FileListAbsolute.txt” (poprzednia wartość: „*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (40,5)
+       Ponowne przypisanie właściwości: $(DebugType)=„none” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (32,5)
+       Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Próba zaimportowania elementu D:\VS\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\* przy użyciu ścieżki rozszerzeń D:\VS\MSBuild
+       Właściwość „Configuration” jest właściwością globalną i nie może być modyfikowana.
+       Ponowne przypisanie właściwości: $(_DocumentationFileProduced)=„false” (poprzednia wartość: „true”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (185,5)
+       Właściwość „DevEnvDir” jest właściwością globalną i nie może być modyfikowana.
+       Właściwość „SolutionName” jest właściwością globalną i nie może być modyfikowana.
+       Właściwość „SolutionFileName” jest właściwością globalną i nie może być modyfikowana.
+       Właściwość „SolutionPath” jest właściwością globalną i nie może być modyfikowana.
+       Właściwość „SolutionDir” jest właściwością globalną i nie może być modyfikowana.
+       Właściwość „SolutionExt” jest właściwością globalną i nie może być modyfikowana.
+       Ponowne przypisanie właściwości: $(AutoUnifyAssemblyReferences)=„false” (poprzednia wartość: „true”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (369,5)
+       Ponowne przypisanie właściwości: $(ProcessorArchitecture)=„amd64” (poprzednia wartość: „x64”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (516,5)
+       Property 'MSBuildExtensionsPath64' with value 'C:\Program Files\MSBuild' expanded from the environment.
+       Ponowne przypisanie właściwości: $(DelaySign)=„” (poprzednia wartość: „false”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (568,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;” (poprzednia wartość: „{CandidateAssemblyFiles}”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (637,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem}” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (638,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem}”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (639,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (640,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (641,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (642,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (643,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (644,5)
+       Ponowne przypisanie właściwości: $(AssemblySearchPaths)=„{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName};D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\” (poprzednia wartość: „{CandidateAssemblyFiles};D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:D:\VS\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (645,5)
+       Ponowne przypisanie właściwości: $(CommonXamlResourcesDirectory)=„D:\VS\MSBuild\Current\Bin\amd64\en-US\” (poprzednia wartość: „D:\VS\MSBuild\Current\Bin\amd64\pl-PL\”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (669,5)
+       Ponowne przypisanie właściwości: $(_SGenGenerateSerializationAssembliesConfig)=„Auto” (poprzednia wartość: „”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (3789,5)
+       Ponowne przypisanie właściwości: $(_SGenGenerateSerializationAssembliesConfig)=„Off” (poprzednia wartość: „Auto”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (3790,5)
+       Ponowne przypisanie właściwości: $(_TargetsThatPrepareProjectReferences)=„
+             AssignProjectConfiguration;
+             _SplitProjectReferencesByFileExistence
+           ” (poprzednia wartość: „_SplitProjectReferencesByFileExistence”) w D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (4927,5)
+       Ponowne przypisanie właściwości: $(_CodeAnalysisTreatWarningsAsErrors)=„false” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (125,5)
+       Ponowne przypisanie właściwości: $(CAExcludePath)=„C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;” (poprzednia wartość: „C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”) w D:\VS\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (239,5)
+       Ponowne przypisanie właściwości: $(CAExcludePath)=„D:\VS\VC\Tools\MSVC\14.35.32215\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;” (poprzednia wartość: „C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”) w D:\VS\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (240,5)
+       Ponowne przypisanie właściwości: $(CAExcludePath)=„D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\include;D:\VS\VC\Tools\MSVC\14.35.32215\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;” (poprzednia wartość: „D:\VS\VC\Tools\MSVC\14.35.32215\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;”) w D:\VS\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (241,5)
+       Ponowne przypisanie właściwości: $(PrepareForBuildDependsOn)=„;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables” (poprzednia wartość: „;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata”) w D:\VS\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (244,5)
+       Ponowne przypisanie właściwości: $(PrepareResourcesDependsOn)=„
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ” (poprzednia wartość: „
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ”) w C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5)
+       Ponowne przypisanie właściwości: $(ResolveReferencesDependsOn)=„
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ” (poprzednia wartość: „
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ”) w D:\VS\MSBuild\Microsoft\VisualStudio\v17.0\TeamTest\Microsoft.TeamTest.targets (4,5)
+       Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Próba zaimportowania elementu D:\VS\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* przy użyciu ścieżki rozszerzeń D:\VS\MSBuild
+       Ponowne przypisanie właściwości: $(ProjectLockFile)=„obj\project.assets.json” (poprzednia wartość: „D:\project\dynatrace-cpp-internship-2023\project\obj\project.assets.json”) w D:\VS\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (74,5)
+       Ponowne przypisanie właściwości: $(ResolveAssemblyReferencesDependsOn)=„
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets” (poprzednia wartość: „
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ”) w D:\VS\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (185,5)
+       Ponowne przypisanie właściwości: $(PrepareResourcesDependsOn)=„ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ” (poprzednia wartość: „
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ”) w D:\VS\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (186,5)
+       Ścieżki wyszukiwania dla elementu $(MSBuildExtensionsPath): D:\VS\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Ponowne przypisanie właściwości: $(PrepareForRunDependsOn)=„
+                   _CalculatePostXamarinTelemetry;
+                   _PostXamarinTelemetry;
+                   
+             CopyFilesToOutputDirectory
+           
+               ” (poprzednia wartość: „
+             CopyFilesToOutputDirectory
+           ”) w D:\VS\MSBuild\Xamarin\Xamarin.Sdk.targets (9,9)
+       Ponowne przypisanie właściwości: $(DebugType)=„” (poprzednia wartość: „none”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (39,5)
+       Ponowne przypisanie właściwości: $(BuildDependsOn)=„
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ” (poprzednia wartość: „
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (121,5)
+       Ponowne przypisanie właściwości: $(RebuildDependsOn)=„
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ” (poprzednia wartość: „
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (129,5)
+       Ponowne przypisanie właściwości: $(CleanDependsOn)=„
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ” (poprzednia wartość: „
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (134,5)
+       Ponowne przypisanie właściwości: $(BeforeBuildGenerateSourcesTargets)=„
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           ” (poprzednia wartość: „
+             ;
+             BeforeBuildGenerateSources;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (59,5)
+       Ponowne przypisanie właściwości: $(AfterBuildGenerateSourcesTargets)=„
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           ” (poprzednia wartość: „
+             ;
+             AfterBuildGenerateSources;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (70,5)
+       Ponowne przypisanie właściwości: $(BuildGenerateSourcesAction)=„_BuildGenerateSourcesAction” (poprzednia wartość: „Build”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (140,5)
+       Ponowne przypisanie właściwości: $(BuildCompileAction)=„_BuildCompileAction” (poprzednia wartość: „Build”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (141,5)
+       Ponowne przypisanie właściwości: $(BuildLinkAction)=„_BuildLinkAction” (poprzednia wartość: „Build”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (142,5)
+       Ponowne przypisanie właściwości: $(DetermineProjectTypeTargets)=„_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ” (poprzednia wartość: „
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (249,5)
+       Ponowne przypisanie właściwości: $(ResolveReferencesDependsOn)=„_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ” (poprzednia wartość: „
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (311,5)
+       Ponowne przypisanie właściwości: $(ResolveAssemblyReferencesDependsOn)=„_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets” (poprzednia wartość: „
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (312,5)
+       Ponowne przypisanie właściwości: $(ResolveSDKReferencesDependsOn)=„_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           ” (poprzednia wartość: „
+             GetInstalledSDKLocations
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (313,5)
+       Ponowne przypisanie właściwości: $(ComputeCompileInputsTargets)=„
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ” (poprzednia wartość: „
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (622,5)
+       Ponowne przypisanie właściwości: $(ComputeLinkInputsTargets)=„
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ” (poprzednia wartość: „
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (935,5)
+       Ponowne przypisanie właściwości: $(GetTargetPathDependsOn)=„_PrepareForReferenceResolution;GetResolvedWinMD;” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1105,5)
+       Ponowne przypisanie właściwości: $(ComputeCompileInputsTargets)=„
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ” (poprzednia wartość: „
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1131,5)
+       Ponowne przypisanie właściwości: $(ComputeLinkInputsTargets)=„
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ” (poprzednia wartość: „
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1183,5)
+       Ponowne przypisanie właściwości: $(ComputeLibInputsTargets)=„
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ” (poprzednia wartość: „
+             ;
+             ComputeRCGeneratedLibInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1190,5)
+       Ponowne przypisanie właściwości: $(ComputeImpLibInputsTargets)=„
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ” (poprzednia wartość: „
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1197,5)
+       Ponowne przypisanie właściwości: $(ComputeLinkInputsTargets)=„
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ” (poprzednia wartość: „
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1258,5)
+       Ponowne przypisanie właściwości: $(ComputeLibInputsTargets)=„
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ” (poprzednia wartość: „
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1273,5)
+       Ponowne przypisanie właściwości: $(ComputeImpLibInputsTargets)=„
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ” (poprzednia wartość: „
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1288,5)
+       Ponowne przypisanie właściwości: $(ComputeLinkInputsTargets)=„
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ” (poprzednia wartość: „
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1319,5)
+       Ponowne przypisanie właściwości: $(ComputeLibInputsTargets)=„
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ” (poprzednia wartość: „
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1337,5)
+       Ponowne przypisanie właściwości: $(ComputeImpLibInputsTargets)=„
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+             ComputeImpLibInputsFromProject;
+           ” (poprzednia wartość: „
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1355,5)
+       Ponowne przypisanie właściwości: $(ComputeLinkInputsTargets)=„
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ;
+             ComputeReferenceLinkInputs;
+           ” (poprzednia wartość: „
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1499,5)
+       Ponowne przypisanie właściwości: $(ComputeLibInputsTargets)=„
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ” (poprzednia wartość: „
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1537,5)
+       Ponowne przypisanie właściwości: $(ComputeLibInputsTargets)=„
+             ComputeLibAdditionalOptions;
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           
+           ” (poprzednia wartość: „
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1594,5)
+       Ponowne przypisanie właściwości: $(GetProjectInfoForReferenceDependsOn)=„
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           ” (poprzednia wartość: „
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1789,5)
+       Ponowne przypisanie właściwości: $(DocumentationProjectOutputGroupDependsOn)=„ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles” (poprzednia wartość: „”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (2176,5)
+       Ponowne przypisanie właściwości: $(ContentFilesProjectOutputGroupDependsOn)=„PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc” (poprzednia wartość: „PrepareForBuild;AssignTargetPaths”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (2242,5)
+       Ponowne przypisanie właściwości: $(ComputeCompileInputsTargets)=„
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             FixupCLCompileOptions;
+           ” (poprzednia wartość: „
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (308,5)
+       Ponowne przypisanie właściwości: $(BuildingProject)=„true” (poprzednia wartość: „false”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (2007,5)
+       Ponowne przypisanie właściwości: $(ContentFilesProjectOutputGroupDependsOn)=„PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;” (poprzednia wartość: „PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (2560,5)
+       Ponowne przypisanie właściwości: $(PrepareForBuildDependsOn)=„_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables” (poprzednia wartość: „;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets (16,5)
+       Ponowne przypisanie właściwości: $(CleanDependsOn)=„
+             
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ;
+             CppClean
+           ” (poprzednia wartość: „
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets (22,5)
+       Ponowne przypisanie właściwości: $(CppCleanDependsOn)=„
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean” (poprzednia wartość: „
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets (92,5)
+       Ponowne przypisanie właściwości: $(BuildDependsOn)=„SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ” (poprzednia wartość: „
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets (538,5)
+       Ponowne przypisanie właściwości: $(RebuildDependsOn)=„SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ” (poprzednia wartość: „
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ”) w D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets (539,5)
+       Zastępowanie elementu docelowego „GenerateTargetFrameworkMonikerAttribute” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „GenerateTargetFrameworkMonikerAttribute” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”.
+       Zastępowanie elementu docelowego „Build” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „Build” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”.
+       Zastępowanie elementu docelowego „Rebuild” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „Rebuild” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”.
+       Zastępowanie elementu docelowego „AfterBuild” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „AfterBuild” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets”.
+       Zastępowanie elementu docelowego „PrepareForBuild” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „PrepareForBuild” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „GetTargetPath” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „GetTargetPath” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „ComputeIntermediateSatelliteAssemblies” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „ComputeIntermediateSatelliteAssemblies” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „ClCompile” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „ClCompile” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „ResourceCompile” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „ResourceCompile” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „Lib” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „Lib” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „Link” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „Link” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „AllProjectOutputGroups” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „AllProjectOutputGroups” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „BuiltProjectOutputGroup” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „BuiltProjectOutputGroup” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „DebugSymbolsProjectOutputGroup” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „DebugSymbolsProjectOutputGroup” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „DocumentationProjectOutputGroup” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „DocumentationProjectOutputGroup” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „SourceFilesProjectOutputGroup” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „SourceFilesProjectOutputGroup” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „ContentFilesProjectOutputGroup” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „ContentFilesProjectOutputGroup” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „AllProjectOutputGroupsDependencies” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „AllProjectOutputGroupsDependencies” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „BuiltProjectOutputGroupDependencies” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „BuiltProjectOutputGroupDependencies” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „DebugSymbolsProjectOutputGroupDependencies” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „DebugSymbolsProjectOutputGroupDependencies” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „DocumentationProjectOutputGroupDependencies” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „DocumentationProjectOutputGroupDependencies” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets”.
+       Zastępowanie elementu docelowego „PreBuildEvent” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „PreBuildEvent” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „PostBuildEvent” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „PostBuildEvent” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „ClCompile” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „ClCompile” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „Link” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „Link” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „Lib” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „Lib” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „ImpLib” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „ImpLib” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „Midl” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „Midl” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „ResourceCompile” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „ResourceCompile” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „BeforeResGen” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „BeforeResGen” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „ResGen” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „ResGen” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „GenerateSatelliteAssemblies” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „GenerateSatelliteAssemblies” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „Manifest” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „Manifest” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „XdcMake” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „XdcMake” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „BscMake” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” elementem docelowym „BscMake” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „ComputeMetaGenInputs” w projekcie „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets” elementem docelowym „ComputeMetaGenInputs” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „GetNativeManifest” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „GetNativeManifest” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets”.
+       Zastępowanie elementu docelowego „GetTargetPathWithTargetPlatformMoniker” w projekcie „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” elementem docelowym „GetTargetPathWithTargetPlatformMoniker” z projektu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets”.
+Kompilacja rozpoczęła się 24.04.2023 19:27:13.
+Szczegółowość rejestrowania została ustawiona na: Detailed.     1>Projekt „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” w węźle 2 (elementy docelowe: Build).
+     1>Pominięto element docelowy „EnableIntermediateOutputPathMismatchWarning” z powodu fałszywego warunku; ('$(RestoreProjectStyle)' == 'PackageReference') oszacowano jako ('' == 'PackageReference').
+     1>Element docelowy „_CheckForInvalidConfigurationAndPlatform” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „SetTelemetryEnvironmentVariables”):
+       Pominięto zadanie „Error” z powodu fałszywego warunku; ( '$(_InvalidConfigurationError)' == 'true' ) oszacowano jako ( '' == 'true' ).
+       Pominięto zadanie „Warning” z powodu fałszywego warunku; ( '$(_InvalidConfigurationWarning)' == 'true' ) oszacowano jako ( '' == 'true' ).
+       Używanie zadania „Message” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „Message”
+         Configuration=Debug
+       Wykonywanie zadania „Message” zakończone.
+       Zadanie „Message”
+         Platform=x64
+       Wykonywanie zadania „Message” zakończone.
+       Pominięto zadanie „Error” z powodu fałszywego warunku; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) oszacowano jako ('D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\' != '' and !HasTrailingSlash('D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\')).
+       Pominięto zadanie „Error” z powodu fałszywego warunku; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) oszacowano jako ('x64\Debug\' != '' and !HasTrailingSlash('x64\Debug\')).
+       Pominięto zadanie „Error” z powodu fałszywego warunku; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) oszacowano jako ('obj\' != '' and !HasTrailingSlash('obj\')).
+       Pominięto zadanie „Error” z powodu fałszywego warunku; ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) oszacowano jako ( 'D:\project\dynatrace-cpp-internship-2023\project\obj\' != '' And 'D:\project\dynatrace-cpp-internship-2023\project\obj\' != 'D:\project\dynatrace-cpp-internship-2023\project\obj\' ).
+       Pominięto zadanie „Warning” z powodu fałszywego warunku; ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) oszacowano jako ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'D:\project\dynatrace-cpp-internship-2023\project\obj\' ).
+     1>Wykonano kompilowanie elementu docelowego „_CheckForInvalidConfigurationAndPlatform” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „_CheckForInvalidConfigurationAndPlatform”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „SetTelemetryEnvironmentVariables” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „Build”):
+       Używanie zadania „SetEnv” z zestawu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”.
+       Zadanie „SetEnv”
+         VSTEL_SolutionSessionID={BAF02245-1B6E-4640-B767-9CEB808484D4}
+       Wykonywanie zadania „SetEnv” zakończone.
+       Zadanie „SetEnv”
+         VSTEL_CurrentSolutionBuildID=1071164776
+       Wykonywanie zadania „SetEnv” zakończone.
+       Zadanie „SetEnv”
+         VSTEL_ProjectID={5D806521-F59F-4C01-A9EA-FDEF717A82CB}
+       Wykonywanie zadania „SetEnv” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „SetTelemetryEnvironmentVariables” w projekcie „project1.vcxproj”.
+     1>Element docelowy „_PrepareForBuild” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „Build”):
+       Pominięto zadanie „CreateItem” z powodu fałszywego warunku; ('%(CustomBuild.IncludeFileToTool)'!='') oszacowano jako (''!='').
+     1>Wykonano kompilowanie elementu docelowego „_PrepareForBuild” w projekcie „project1.vcxproj”.
+     1>Element docelowy „_PrepareForReferenceResolution” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(WarnAboutIndividualManagedFiles)' == 'true') oszacowano jako ('' == 'true').
+       Pominięto zadanie „Message” z powodu fałszywego warunku; ('$(_REFERENCE_DEBUG)'=='true') oszacowano jako (''=='true').
+     1>Wykonano kompilowanie elementu docelowego „_PrepareForReferenceResolution” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „ComputeCrtSDKReference” z powodu fałszywego warunku; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') oszacowano jako ('src\internship.cpp;src\main.cpp'!='' and 'false'=='true' and '' != 'false').
+     1>Element docelowy „BeforeResolveReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+     1>Wykonano kompilowanie elementu docelowego „BeforeResolveReferences” w projekcie „project1.vcxproj”.
+     1>Element docelowy „AssignProjectConfiguration” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+       Używanie zadania „AssignProjectConfiguration” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „AssignProjectConfiguration”
+       Wykonywanie zadania „AssignProjectConfiguration” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „AssignProjectConfiguration” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „AssignProjectConfiguration”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „_SplitProjectReferencesByFileExistence” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „PrepareProjectReferences”):
+       Pominięto zadanie „ResolveNonMSBuildProjectOutput” z powodu fałszywego warunku; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') oszacowano jako ('true'=='true' and ''!='').
+     1>Wykonano kompilowanie elementu docelowego „_SplitProjectReferencesByFileExistence” w projekcie „project1.vcxproj”.
+     1>Element docelowy „_AddOutputPathToGlobalPropertiesToRemove” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_GetProjectReferenceTargetFrameworkProperties”):
+     1>Wykonano kompilowanie elementu docelowego „_AddOutputPathToGlobalPropertiesToRemove” w projekcie „project1.vcxproj”.
+     1>Element docelowy „_GetProjectReferenceTargetFrameworkProperties” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „PrepareProjectReferences”):
+       Używanie zadania „MSBuild” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „MSBuild”
+       Wykonywanie zadania „MSBuild” zakończone.
+       Pominięto zadanie „MSBuild” z powodu fałszywego warunku; ('%(_MSBuildProjectReferenceExistent.SkipGetTargetFrameworkProperties)' != 'true' and '$(EnableDynamicPlatformResolution)' == 'true') oszacowano jako ('' != 'true' and '' == 'true').
+       Pominięto zadanie „GetReferenceNearestTargetFrameworkTask” z powodu fałszywego warunku; ('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true') oszacowano jako ('' != '' and '' != ''
+                                                               And 'true' == 'true' and '' != 'true').
+       Pominięto zadanie „GetReferenceNearestTargetFrameworkTask” z powodu fałszywego warunku; ('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true') oszacowano jako ('' != '' and '' != ''
+                                                               And 'true' != 'true' and '' != 'true').
+       Używanie zadania „SetRidAgnosticValueForProjects” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „SetRidAgnosticValueForProjects”
+       Wykonywanie zadania „SetRidAgnosticValueForProjects” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „_GetProjectReferenceTargetFrameworkProperties” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „_GetProjectReferencePlatformProperties” z powodu fałszywego warunku; ('$(EnableDynamicPlatformResolution)' == 'true'
+                            and '$(BuildingInsideVisualStudio)' != 'true'
+                            and '@(_MSBuildProjectReferenceExistent)' != '') oszacowano jako ('' == 'true'
+                            and 'true' != 'true'
+                            and '' != '').
+     1>Element docelowy „PrepareProjectReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveProjectReferences”):
+     1>Wykonano kompilowanie elementu docelowego „PrepareProjectReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „_RemoveNameMetadataFromProjectReferenceItems” z powodu fałszywego warunku; ('@(ProjectReference)'!='') oszacowano jako (''!='').
+     1>Element docelowy „ResolveProjectReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+       Pominięto zadanie „MSBuild” z powodu fałszywego warunku; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') oszacowano jako ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '17.0' != '10.0' and '' != '').
+       Pominięto zadanie „MSBuild” z powodu fałszywego warunku; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') oszacowano jako ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '').
+       Pominięto zadanie „MSBuild” z powodu fałszywego warunku; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') oszacowano jako ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+       Pominięto zadanie „Warning” z powodu fałszywego warunku; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') oszacowano jako ('' != '' and '' != '').
+     1>Wykonano kompilowanie elementu docelowego „ResolveProjectReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „FindInvalidProjectReferences” z powodu fałszywego warunku; ('$(FindInvalidProjectReferences)' == 'true') oszacowano jako ('' == 'true').
+       Pominięto element docelowy „ResolveNativeReferences” z powodu fałszywego warunku; ('@(NativeReference)'!='') oszacowano jako (''!='').
+       Pominięto element docelowy „_PrepareForReferenceResolution”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „ResolveProjectReferences”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „FindInvalidProjectReferences” z powodu fałszywego warunku; ('$(FindInvalidProjectReferences)' == 'true') oszacowano jako ('' == 'true').
+     1>Element docelowy „GetFrameworkPaths” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+     1>Wykonano kompilowanie elementu docelowego „GetFrameworkPaths” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „_PrepareForReferenceResolution”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „GetFrameworkPaths”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „GetReferenceAssemblyPaths” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+       Pominięto zadanie „GetReferenceAssemblyPaths” z powodu fałszywego warunku; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) oszacowano jako ('' != '' and ('' == '' or '' == '')).
+     1>Wykonano kompilowanie elementu docelowego „GetReferenceAssemblyPaths” w projekcie „project1.vcxproj”.
+     1>Element docelowy „AddExternalIncludDirectoriesToPaths” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „SetBuildDefaultEnvironmentVariables”):
+     1>Wykonano kompilowanie elementu docelowego „AddExternalIncludDirectoriesToPaths” w projekcie „project1.vcxproj”.
+     1>Element docelowy „SetBuildDefaultEnvironmentVariables” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+       Zadanie „SetEnv”
+         PATH=D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;D:\VS\Common7\tools;D:\VS\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;D:\VS\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;D:\VS\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\robin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\dotnet\;D:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\MinGW\bin;C:\Users\robin\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\robin\AppData\Local\Programs\Python\Python310\;C:\Users\robin\AppData\Local\Microsoft\WindowsApps;D:\Users\robin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\robin\AppData\Local\GitHubDesktop\bin;C:\Users\robin\.dotnet\tools;
+       Wykonywanie zadania „SetEnv” zakończone.
+       Zadanie „SetEnv”
+         LIB=D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;
+       Wykonywanie zadania „SetEnv” zakończone.
+       Zadanie „SetEnv”
+         LIBPATH=D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;D:\VS\VC\Tools\MSVC\14.35.32215\lib\x64;
+       Wykonywanie zadania „SetEnv” zakończone.
+       Zadanie „SetEnv”
+         INCLUDE=D:\VS\VC\Tools\MSVC\14.35.32215\include;;D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\include;;D:\VS\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Wykonywanie zadania „SetEnv” zakończone.
+       Zadanie „SetEnv”
+         EXTERNAL_INCLUDE=D:\VS\VC\Tools\MSVC\14.35.32215\include;;D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\include;;D:\VS\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Wykonywanie zadania „SetEnv” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „SetBuildDefaultEnvironmentVariables” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „SetUserMacroEnvironmentVariables” z powodu fałszywego warunku; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') oszacowano jako ('' != '' and '' != 'true').
+       Pominięto element docelowy „_PrepareForReferenceResolution”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „GetResolvedWinMD” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+     1>Wykonano kompilowanie elementu docelowego „GetResolvedWinMD” w projekcie „project1.vcxproj”.
+     1>Element docelowy „_CheckWindowsSDKInstalled” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(WindowsSDKInstalled)' != 'true') oszacowano jako ('true' != 'true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true) oszacowano jako ('false' != 'true' and 'true' != true).
+     1>Wykonano kompilowanie elementu docelowego „_CheckWindowsSDKInstalled” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „GetFrameworkPaths”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „GetReferenceAssemblyPaths”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „AssignLinkMetadata” z powodu fałszywego warunku; ( '$(SynthesizeLinkMetadata)' == 'true' ) oszacowano jako ( '' == 'true' ).
+     1>Element docelowy „SetCABuildNativeEnvironmentVariables” w pliku „D:\VS\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „PrepareForBuild”):
+       Zadanie „SetEnv”
+         CAExcludePath=D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\include;D:\VS\VC\Tools\MSVC\14.35.32215\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Wykonywanie zadania „SetEnv” zakończone.
+       Pominięto zadanie „SetEnv” z powodu fałszywego warunku; ('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true') oszacowano jako ('false'=='true' and 'true'=='true').
+     1>Wykonano kompilowanie elementu docelowego „SetCABuildNativeEnvironmentVariables” w projekcie „project1.vcxproj”.
+     1>Element docelowy „PrepareForBuild” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true') oszacowano jako ('' != 'true' and 'true' != 'true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(ApplicationType)' == '' and '$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') oszacowano jako ('' == '' and '' != 'true' and 'true' != 'true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(ApplicationType)' != '' and '$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') oszacowano jako ('' != '' and '' != 'true' and 'true' != 'true').
+       Używanie zadania „MakeDir” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „MakeDir”
+       Wykonywanie zadania „MakeDir” zakończone.
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary') oszacowano jako (''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' )) oszacowano jako (''!='true' and 'D:\VS\VC\Tools\MSVC\14.35.32215\'=='' and '' != 'true' and (''=='v3.5' or ''=='v3.0' or ''=='v2.0' )).
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') oszacowano jako (''!='true' and 'D:\VS\VC\Tools\MSVC\14.35.32215\'=='' and '' != 'true' and 'v143'=='v90').
+       Używanie zadania „CheckVCToolsetVersion” z zestawu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”.
+       Zadanie „CheckVCToolsetVersion”
+       Wykonywanie zadania „CheckVCToolsetVersion” zakończone.
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '') oszacowano jako ('' == 'true' and !Exists(D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64\mfcs140.lib) and '' == '').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '') oszacowano jako ('' == 'true' and !Exists(D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64\mfcs140.lib) and '' != '').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '') oszacowano jako ('' == 'true' and !Exists(D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64\atls.lib) and '' == '').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '') oszacowano jako ('' == 'true' and !Exists(D:\VS\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64\atls.lib) and '' != '').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_OneCore_CurrentPlatform_spectre)')) or
+                                                                ('$(VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_Desktop_CurrentPlatform_spectre)')))) oszacowano jako ('' != 'true' and
+                                                               'true'=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('D:\VS\VC\Tools\MSVC\14.35.32215\lib\spectre\onecore\x64')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('D:\VS\VC\Tools\MSVC\14.35.32215\lib\spectre\x64')))).
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true'  and '$(CheckMSVCComponents)'=='true') oszacowano jako (''!='true' and 'D:\VS\VC\Tools\MSVC\14.35.32215\'=='' and '' != 'true'  and 'true'=='true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') oszacowano jako (''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true') oszacowano jako (''!='true' and ''=='true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true') oszacowano jako (''!='true' and ''=='true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true') oszacowano jako ('' != '' and ''!='true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true') oszacowano jako ('' != 'true' and '' == 'true').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(_Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Temp), true, null))' == 'true')) oszacowano jako (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true')).
+       Zadanie „MakeDir”
+       Wykonywanie zadania „MakeDir” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „PrepareForBuild” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „_PrepareForReferenceResolution”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „ComputeCrtSDKReference” z powodu fałszywego warunku; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') oszacowano jako ('src\internship.cpp;src\main.cpp'!='' and 'false'=='true' and '' != 'false').
+       Pominięto element docelowy „GetInstalledSDKLocations” z powodu fałszywego warunku; ('@(SDKReference)' != '') oszacowano jako ('' != '').
+     1>Element docelowy „ResolveSDKReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+       Pominięto zadanie „ResolveSDKReference” z powodu fałszywego warunku; ('@(SDKReference)'!='') oszacowano jako (''!='').
+     1>Wykonano kompilowanie elementu docelowego „ResolveSDKReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „ResolveSDKReferences”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „ExpandSDKReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveAssemblyReferences”):
+       Pominięto zadanie „GetSDKReferenceFiles” z powodu fałszywego warunku; ('@(ResolvedSDKReference)'!='') oszacowano jako (''!='').
+     1>Wykonano kompilowanie elementu docelowego „ExpandSDKReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „ResolveNuGetPackageAssets” z powodu fałszywego warunku; ('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)')) oszacowano jako ('true' == 'true' and exists('obj\project.assets.json')).
+     1>Element docelowy „ResolveAssemblyReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+       Pominięto zadanie „ResolveAssemblyReference” z powodu fałszywego warunku; ('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '') oszacowano jako (''!='' or ''!='' or '' != '').
+     1>Wykonano kompilowanie elementu docelowego „ResolveAssemblyReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „GenerateBindingRedirects” z powodu fałszywego warunku; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true') oszacowano jako ('' == 'true' and 'true' == 'true').
+       Pominięto element docelowy „GenerateBindingRedirectsUpdateAppConfig” z powodu fałszywego warunku; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)')) oszacowano jako ('' == 'true' and 'true' == 'true' and Exists('x64\Debug\project1.exe.config')).
+       Pominięto element docelowy „ResolveComReferences” z powodu fałszywego warunku; ('@(COMReference)'!='' or '@(COMFileReference)'!='') oszacowano jako (''!='' or ''!='').
+     1>Element docelowy „AfterResolveReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ResolveReferences”):
+     1>Wykonano kompilowanie elementu docelowego „AfterResolveReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „ResolveTestReferences” z powodu fałszywego warunku; ('@(Shadow)'!='') oszacowano jako (''!='').
+     1>Element docelowy „ResolveReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „Build”):
+     1>Wykonano kompilowanie elementu docelowego „ResolveReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „PrepareForBuild”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „PrepareForBuild”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „InitializeBuildStatus” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „Build”):
+       Używanie zadania „ReadLinesFromFile” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „ReadLinesFromFile”
+       Wykonywanie zadania „ReadLinesFromFile” zakończone.
+       Używanie zadania „WriteLinesToFile” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „WriteLinesToFile”
+       Wykonywanie zadania „WriteLinesToFile” zakończone.
+       Używanie zadania „Touch” z zestawu „Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a”.
+       Zadanie „Touch”
+         Modyfikowanie „x64\Debug\project1.tlog\unsuccessfulbuild”.
+       Wykonywanie zadania „Touch” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „InitializeBuildStatus” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „PrepareProjectReferences”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „BuildGenerateSourcesTraverse” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „BuildGenerateSources”):
+       Pominięto zadanie „MSBuild” z powodu fałszywego warunku; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') oszacowano jako ('' == 'true' and '' != '' and '' != '' and '' == 'true').
+     1>Wykonano kompilowanie elementu docelowego „BuildGenerateSourcesTraverse” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „PrepareForBuild”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „ResolveReferences”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „BeforeBuildGenerateSources” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+     1>Wykonano kompilowanie elementu docelowego „BeforeBuildGenerateSources” w projekcie „project1.vcxproj”.
+     1>Element docelowy „PreBuildEvent” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+       Pominięto zadanie „Message” z powodu fałszywego warunku; ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '') oszacowano jako ('' != '' and '' != '').
+       Pominięto zadanie „Exec” z powodu fałszywego warunku; ('%(PreBuildEvent.Command)' != '') oszacowano jako ('' != '').
+     1>Wykonano kompilowanie elementu docelowego „PreBuildEvent” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „PrepareForBuild”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „InitializeBuildStatus”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „SetBuildDefaultEnvironmentVariables”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „SetUserMacroEnvironmentVariables” z powodu fałszywego warunku; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') oszacowano jako ('' != '' and '' != 'true').
+     1>Element docelowy „_SelectedFiles” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „SelectCustomBuild”):
+     1>Wykonano kompilowanie elementu docelowego „_SelectedFiles” w projekcie „project1.vcxproj”.
+     1>Element docelowy „SelectCustomBuild” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „CustomBuild”):
+     1>Wykonano kompilowanie elementu docelowego „SelectCustomBuild” w projekcie „project1.vcxproj”.
+     1>Element docelowy „ComputeCustomBuildOutput” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „CustomBuild”):
+       Pominięto zadanie „CreateItem” z powodu fałszywego warunku; ('%(CustomBuildOutputs.OutputItemType)'!='') oszacowano jako (''!='').
+       Zadanie „MakeDir”
+       Wykonywanie zadania „MakeDir” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „ComputeCustomBuildOutput” w projekcie „project1.vcxproj”.
+     1>Element docelowy „CustomBuild” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+       Używanie zadania „GetOutOfDateItems” z zestawu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”.
+       Zadanie „GetOutOfDateItems”
+       Wykonywanie zadania „GetOutOfDateItems” zakończone.
+       Zadanie „GetOutOfDateItems”
+       Wykonywanie zadania „GetOutOfDateItems” zakończone.
+       Pominięto zadanie „ParallelCustomBuild” z powodu fałszywego warunku; ('@(_ParallelCustomBuild)' != '') oszacowano jako ('' != '').
+       Pominięto zadanie „CustomBuild” z powodu fałszywego warunku; ('@(_CustomBuild)' != '') oszacowano jako ('' != '').
+     1>Wykonano kompilowanie elementu docelowego „CustomBuild” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „FxExport” z powodu fałszywego warunku; ('@(FxCompile)' != '') oszacowano jako ('' != '').
+       Pominięto element docelowy „FxCompile” z powodu fałszywego warunku; ('@(FxCompile)' != '') oszacowano jako ('' != '').
+       Pominięto element docelowy „_CreateCopyFileItems” z powodu fałszywego warunku; ('@(CopyFileToFolders)' != '') oszacowano jako ('' != '').
+       Pominięto element docelowy „_SelectedFiles”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „CopyFileToFolders” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+       Zadanie „GetOutOfDateItems”
+       Wykonywanie zadania „GetOutOfDateItems” zakończone.
+       Pominięto zadanie „Copy” z powodu fałszywego warunku; ('@(_OutOfDateCopyFile)' != '') oszacowano jako ('' != '').
+     1>Wykonano kompilowanie elementu docelowego „CopyFileToFolders” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „Xsd” z powodu fałszywego warunku; ('@(Xsd)' != '') oszacowano jako ('' != '').
+     1>Element docelowy „_Xsd” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+     1>Wykonano kompilowanie elementu docelowego „_Xsd” w projekcie „project1.vcxproj”.
+     1>Element docelowy „MakeDirsForMidl” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_Midl”):
+       Zadanie „Makedir”
+       Wykonywanie zadania „Makedir” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „MakeDirsForMidl” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „Midl” z powodu fałszywego warunku; ('@(Midl)' != '') oszacowano jako ('' != '').
+       Pominięto element docelowy „FxExport” z powodu fałszywego warunku; ('@(FxCompile)' != '') oszacowano jako ('' != '').
+       Pominięto element docelowy „FxCompile” z powodu fałszywego warunku; ('@(FxCompile)' != '') oszacowano jako ('' != '').
+     1>Element docelowy „ComputeMIDLGeneratedCompileInputs” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_Midl”):
+     1>Wykonano kompilowanie elementu docelowego „ComputeMIDLGeneratedCompileInputs” w projekcie „project1.vcxproj”.
+     1>Element docelowy „AfterMidl” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_Midl”):
+     1>Wykonano kompilowanie elementu docelowego „AfterMidl” w projekcie „project1.vcxproj”.
+     1>Element docelowy „_Midl” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+     1>Wykonano kompilowanie elementu docelowego „_Midl” w projekcie „project1.vcxproj”.
+     1>Element docelowy „AfterBuildGenerateSources” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+     1>Wykonano kompilowanie elementu docelowego „AfterBuildGenerateSources” w projekcie „project1.vcxproj”.
+     1>Element docelowy „AfterBuildGenerateSourcesEvent” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_BuildGenerateSourcesAction”):
+     1>Wykonano kompilowanie elementu docelowego „AfterBuildGenerateSourcesEvent” w projekcie „project1.vcxproj”.
+     1>Element docelowy „_BuildGenerateSourcesAction” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „BuildGenerateSources”):
+     1>Wykonano kompilowanie elementu docelowego „_BuildGenerateSourcesAction” w projekcie „project1.vcxproj”.
+     1>Element docelowy „BuildGenerateSources” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „Build”):
+     1>Wykonano kompilowanie elementu docelowego „BuildGenerateSources” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „PrepareProjectReferences”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „BuildCompileTraverse” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „BuildCompile”):
+       Pominięto zadanie „MSBuild” z powodu fałszywego warunku; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') oszacowano jako ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Wykonano kompilowanie elementu docelowego „BuildCompileTraverse” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „PrepareForBuild”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „ResolveReferences”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „BeforeClCompile” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+     1>Wykonano kompilowanie elementu docelowego „BeforeClCompile” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „GenerateTargetFrameworkMonikerAttribute” z powodu fałszywego warunku; ('$(GenerateTargetFrameworkAttribute)' == 'true') oszacowano jako ('false' == 'true').
+       Pominięto element docelowy „ComputeMIDLGeneratedCompileInputs”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „ComputeCLInputPDBName” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+     1>Wykonano kompilowanie elementu docelowego „ComputeCLInputPDBName” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „ResolveReferences”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „FindReferenceAssembliesForReferences” w pliku „D:\VS\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ComputeReferenceCLInput”):
+     1>Wykonano kompilowanie elementu docelowego „FindReferenceAssembliesForReferences” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „PrepareForBuild”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „ResolveReferences”. Wcześniejsza kompilacja powiodła się.
+     1>Element docelowy „GetReferencedVCProjectsInfo” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ComputeReferenceCLInput”):
+       Pominięto zadanie „MSBuild” z powodu fałszywego warunku; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '') oszacowano jako ('' == '.vcxproj' and '' != '' and '' != '').
+     1>Wykonano kompilowanie elementu docelowego „GetReferencedVCProjectsInfo” w projekcie „project1.vcxproj”.
+     1>Element docelowy „ComputeReferenceCLInput” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+       Pominięto zadanie „WriteLinesToFile” z powodu fałszywego warunku; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true') oszacowano jako (''!='' and '' != 'true' and 'true' == 'true').
+       Pominięto zadanie „WriteLinesToFile” z powodu fałszywego warunku; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true') oszacowano jako (''!='' and '' != 'true' and 'true' == 'true').
+       Pominięto zadanie „Message” z powodu fałszywego warunku; ('$(_REFERENCE_DEBUG)'=='true') oszacowano jako (''=='true').
+     1>Wykonano kompilowanie elementu docelowego „ComputeReferenceCLInput” w projekcie „project1.vcxproj”.
+     1>Element docelowy „WarnCompileDuplicatedFilename” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') oszacowano jako ('' != 'true' and 'internship.cpp' != 'internship.cpp' and 'x64\Debug\' == 'x64\Debug\').
+       Pominięto zadanie „VCMessage” z powodu fałszywego warunku; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') oszacowano jako ('' != 'true' and 'main.cpp' != 'main.cpp' and 'x64\Debug\' == 'x64\Debug\').
+     1>Wykonano kompilowanie elementu docelowego „WarnCompileDuplicatedFilename” w projekcie „project1.vcxproj”.
+     1>Element docelowy „FixupCLCompileOptions” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+     1>Wykonano kompilowanie elementu docelowego „FixupCLCompileOptions” w projekcie „project1.vcxproj”.
+     1>Element docelowy „MakeDirsForCl” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+       Zadanie „MakeDir”
+       Wykonywanie zadania „MakeDir” zakończone.
+     1>Wykonano kompilowanie elementu docelowego „MakeDirsForCl” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „_SelectedFiles”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „GenerateTargetFrameworkMonikerAttribute” z powodu fałszywego warunku; ('$(GenerateTargetFrameworkAttribute)' == 'true') oszacowano jako ('false' == 'true').
+       Pominięto element docelowy „ComputeMIDLGeneratedCompileInputs”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „ComputeCLInputPDBName”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „ComputeReferenceCLInput”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „WarnCompileDuplicatedFilename”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „FixupCLCompileOptions”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „SelectCustomBuild”. Wcześniejsza kompilacja powiodła się.
+       Pominięto element docelowy „SetModuleDependencies” z powodu fałszywego warunku; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') oszacowano jako ('' != 'true' and '' == 'true').
+     1>Element docelowy „SelectClCompile” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „ClCompile”):
+     1>Wykonano kompilowanie elementu docelowego „SelectClCompile” w projekcie „project1.vcxproj”.
+       Pominięto element docelowy „SelectAnalysisManifest” z powodu fałszywego warunku; ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='') oszacowano jako ('false'=='true' and ''!='').
+       Pominięto element docelowy „ManagedIncrementalBuildPreProcessDependencyGraph” z powodu fałszywego warunku; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') oszacowano jako ('src\internship.cpp;src\main.cpp' != '' and 'false' == 'True').
+     1>Element docelowy „ClCompile” w pliku „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets” z projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (zależy od niego element docelowy „_ClCompile”):
+       Pominięto zadanie „Delete” z powodu fałszywego warunku; ('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'None' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName))) oszacowano jako ('EditAndContinue' != '' and 'EditAndContinue' != 'None' and 'EditAndContinue' != 'OldStyle' and 'x64\Debug\vc143.pdb' != '' and !Exists(x64\Debug\vc143.pdb)).
+       Pominięto zadanie „MultiToolTask” z powodu fałszywego warunku; ('%(ClCompile.CompilerIteration)' == 'Modules') oszacowano jako ('' == 'Modules').
+       Pominięto zadanie „MultiToolTask” z powodu fałszywego warunku; ('%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true') oszacowano jako ('' == '' and 'false' == 'true').
+       Pominięto zadanie „CL” z powodu fałszywego warunku; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true') oszacowano jako ('NotUsing' == 'Create' and '' == '' and 'false' != 'true').
+       Używanie zadania „CL” z zestawu „D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll”.
+       Zadanie „CL”
+         Dzienniki śledzenia odczytów:
+         	x64\Debug\project1.tlog\CL.read.1.tlog
+         Dane wyjściowe dla D:\PROJECT\DYNATRACE-CPP-INTERNSHIP-2023\PROJECT\SRC\INTERNSHIP.CPP|D:\PROJECT\DYNATRACE-CPP-INTERNSHIP-2023\PROJECT\SRC\MAIN.CPP:
+         	D:\PROJECT\DYNATRACE-CPP-INTERNSHIP-2023\PROJECT\X64\DEBUG\INTERNSHIP.OBJ
+         	D:\PROJECT\DYNATRACE-CPP-INTERNSHIP-2023\PROJECT\X64\DEBUG\MAIN.OBJ
+         Plik src\internship.cpp zostanie skompilowany, ponieważ nie odnaleziono go w dzienniku śledzenia.
+         Dane wyjściowe dla D:\PROJECT\DYNATRACE-CPP-INTERNSHIP-2023\PROJECT\SRC\INTERNSHIP.CPP:
+         	D:\PROJECT\DYNATRACE-CPP-INTERNSHIP-2023\PROJECT\X64\DEBUG\INTERNSHIP.OBJ
+         Dzienniki śledzenia zapisów:
+         	x64\Debug\project1.tlog\CL.write.1.tlog
+         Zmienna środowiskowa przekazana do narzędzia:
+           VS_UNICODE_OUTPUT=1448
+         D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W1 /WX- /diagnostics:column /Od /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W1 /Gd /TP /FC /errorReport:prompt /std:c++17 src\internship.cpp
+         Polecenie śledzenia:
+         D:\VS\MSBuild\Current\Bin\amd64\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i D:\project\dynatrace-cpp-internship-2023\project\x64\Debug\project1.tlog /r D:\PROJECT\DYNATRACE-CPP-INTERNSHIP-2023\PROJECT\SRC\INTERNSHIP.CPP /b MSBuildConsole_CancelEvent75386178cdd1453f8419f45d72c5713f  /c D:\VS\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe  /c /ZI /JMC /nologo /W1 /WX- /diagnostics:column /Od /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W1 /Gd /TP /FC /errorReport:prompt /std:c++17 src\internship.cpp
+         internship.cpp
+     1>D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(20,18): error C2672: „floor”: nie znaleziono zgodnej przeciążonej funkcji
+       D:\VS\VC\Tools\MSVC\14.35.32215\include\cmath(676,1): message : może to być „double floor(_Ty) noexcept”
+       D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(20,41): message : „double floor(_Ty) noexcept”: nie można wywnioskować argumentu szablon dla elementu „__formal”
+       D:\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_chrono.hpp(614,50): message : lub       "std::chrono::time_point<_Clock,_To> std::chrono::floor(const std::chrono::time_point<_Clock,_Duration> &) noexcept(<expr>)"
+       D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(20,18): message : „std::chrono::time_point<_Clock,_To> std::chrono::floor(const std::chrono::time_point<_Clock,_Duration> &) noexcept(<expr>)”: nie można wywnioskować argumentu szablon dla elementu „const std::chrono::time_point<_Clock,_Duration> &” z „std::string”
+       D:\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_chrono.hpp(451,30): message : lub       "_To std::chrono::floor(const std::chrono::duration<_Rep,_Period> &) noexcept(<expr>)"
+       D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(20,18): message : „_To std::chrono::floor(const std::chrono::duration<_Rep,_Period> &) noexcept(<expr>)”: nie można wywnioskować argumentu szablon dla elementu „const std::chrono::duration<_Rep,_Period> &” z „std::string”
+     1>D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(21,14): error C2672: „floor”: nie znaleziono zgodnej przeciążonej funkcji
+       D:\VS\VC\Tools\MSVC\14.35.32215\include\cmath(676,1): message : może to być „double floor(_Ty) noexcept”
+       D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(21,33): message : „double floor(_Ty) noexcept”: nie można wywnioskować argumentu szablon dla elementu „__formal”
+       D:\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_chrono.hpp(614,50): message : lub       "std::chrono::time_point<_Clock,_To> std::chrono::floor(const std::chrono::time_point<_Clock,_Duration> &) noexcept(<expr>)"
+       D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(21,14): message : „std::chrono::time_point<_Clock,_To> std::chrono::floor(const std::chrono::time_point<_Clock,_Duration> &) noexcept(<expr>)”: nie można wywnioskować argumentu szablon dla elementu „const std::chrono::time_point<_Clock,_Duration> &” z „std::string”
+       D:\VS\VC\Tools\MSVC\14.35.32215\include\__msvc_chrono.hpp(451,30): message : lub       "_To std::chrono::floor(const std::chrono::duration<_Rep,_Period> &) noexcept(<expr>)"
+       D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(21,14): message : „_To std::chrono::floor(const std::chrono::duration<_Rep,_Period> &) noexcept(<expr>)”: nie można wywnioskować argumentu szablon dla elementu „const std::chrono::duration<_Rep,_Period> &” z „std::string”
+     1>D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(22,19): error C3536: "eol" : nie można użyć, zanim zostanie zainicjowany
+     1>D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(22,28): error C3536: "release" : nie można użyć, zanim zostanie zainicjowany
+         Polecenie zostało zakończone z kodem 2.
+       Wykonywanie zadania „CL” zakończone — NIEPOWODZENIE.
+     1>Wykonano kompilowanie elementu docelowego „ClCompile” w projekcie „project1.vcxproj” — NIEPOWODZENIE.
+     1>Kompilowanie projektu „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” wykonane (elementy docelowe: Build) — NIEPOWODZENIE.
+
+Kompilacja NIE POWIODŁA SIĘ.
+
+       „D:\project\dynatrace-cpp-internship-2023\project\project1.vcxproj” (element docelowy Build) (1) ->
+       (element docelowy ClCompile) -> 
+         D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(20,18): error C2672: „floor”: nie znaleziono zgodnej przeciążonej funkcji
+         D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(21,14): error C2672: „floor”: nie znaleziono zgodnej przeciążonej funkcji
+         D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(22,19): error C3536: "eol" : nie można użyć, zanim zostanie zainicjowany
+         D:\project\dynatrace-cpp-internship-2023\project\src\internship.cpp(22,28): error C3536: "release" : nie można użyć, zanim zostanie zainicjowany
+
+    Ostrzeżenia: 0
+    Liczba błędów: 4
+
+Czas, który upłynął: 00:00:01.39
